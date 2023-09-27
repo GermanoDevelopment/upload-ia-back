@@ -4,11 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "tsx src/server.ts",
     "dev": "tsx watch src/server.ts"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "IA",
+    "Video-to-text"
+  ],
+  "author": "Wyvig Israel",
   "prisma": {
     "seed": "tsx prisma/seed.ts"
   },

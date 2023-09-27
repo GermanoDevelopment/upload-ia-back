@@ -17,11 +17,11 @@
   },
   "devDependencies": {
     "@types/node": "^20.6.2",
-    "dotenv": "^16.3.1",
     "prisma": "^5.3.1",
     "typescript": "^5.2.2"
   },
   "dependencies": {
+    "dotenv": "^16.3.1",
     "tsx": "^3.12.10",
     "@fastify/cors": "^8.4.0",
     "@fastify/multipart": "^7.7.3",
